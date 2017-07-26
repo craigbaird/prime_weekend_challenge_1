@@ -1,0 +1,19 @@
+.square {
+display: inline-block;
+height: 50px;
+width: 50px;
+background-color: grey;
+margin: 5px;
+}
+
+button {
+  margin: 5px;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+p {
+  font-size: 20px;
+}
