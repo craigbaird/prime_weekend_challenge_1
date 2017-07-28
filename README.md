@@ -1,6 +1,6 @@
 # Weekend Challenge 1
 
-First weekend challenge for Prime Digital Academy creating a jQuery carousel displaying feedback given by peers in my class at Prime.
+First weekend challenge for Prime Digital Academy creating a jQuery carousel displaying shoutouts given by peers in my class at Prime.
 
 ## Product Example
 
